@@ -20,6 +20,7 @@ It uses a graph-based structure to manage user relationships and interactions.
 - `Edge`: Represents the relationship between users, storing the ID and username of the user being followed and a link to the next edge.
 - `Biodata`: Stores additional user information such as DOB, institution, and native place.
 - `Graph`: Manages the entire social network, including user accounts, relationships, and various operations like following users and viewing connections.
+  
 **Usage**
 - **Running the Program:** Compile and run the program using a C++ compiler.
 - **Creating an Account:** Choose the option to create a new account and follow the prompts to enter user details and bio data.
